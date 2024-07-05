@@ -2,6 +2,23 @@
 
 I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
+### Skills
+
+<p align="left">
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=unity,python,html,css,angular,nextjs,mysql" />
+  </a>
+</div>
+  
+  ##
+ 
+<div>  
+  <a href = "mailto:costakarel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.linkedin.com/in/kayo-vinicius-40754a219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  
+</div>
+
 <!--
 **karelcosta/karelcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
