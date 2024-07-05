@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi My name is Karel Costa
+
+I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
 <!--
 **karelcosta/karelcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
