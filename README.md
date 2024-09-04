@@ -2,12 +2,12 @@
 
 I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
-### Skills
+### Languages and Tools:
 
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=unity,cs,javascript,typescript,python,angular,html,css" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,javascript,typescript,python,angular,react,nextjs,html,css" />
   </a>
 </div>
   
