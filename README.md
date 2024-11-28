@@ -4,6 +4,7 @@ I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
 ### GitHub Stats
 
+
 <div align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=karelcosta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karelcosta&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
@@ -12,10 +13,11 @@ I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
 ### Languages and Tools:
 
+<!-- unity, -->
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=unity,cs,javascript,typescript,python,angular,react,nextjs,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,javascript,typescript,python,angular,react,nextjs,html,css" />
   </a>
 </div>
   
