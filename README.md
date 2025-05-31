@@ -17,7 +17,7 @@ I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,javascript,typescript,python,angular,react,unity,html,css" />
+    <img src="https://skillicons.dev/icons?i=unity,angular,react,python,cs,javascript,typescript,html,css" />
   </a>
 </div>
   
