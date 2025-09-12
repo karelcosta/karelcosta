@@ -1,4 +1,4 @@
-### Hi My name is Karel Costa
+t### Hi My name is Karel Costa
 
 I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
 
@@ -11,16 +11,25 @@ I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karelcosta&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="stats graph" />
 </div>
 
-### Languages and Tools:
+### Tools:
 
 <!-- unity, -->
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=unity,angular,react,python,cs,javascript,typescript,html,css" />
+    <img src="https://skillicons.dev/icons?i=unity,nextjs,react,godot,angular,vue" />
   </a>
 </div>
-  
+
+### Languages:
+<!-- unity, -->
+<p align="left">
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cs,python,javascript,typescript,css,html" />
+  </a>
+</div>
+
   ##
  
 <div>  
