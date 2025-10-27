@@ -29,8 +29,8 @@ Bachelor of Computer Science from IFMA campus Caxias
   <a href = "mailto:costakarel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karel-costa-350345337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/karel_costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://meuportifolio.com" target="_blank">
-    <img src="https://github.com/karelcosta/KRCportfolio/blob/master/src/app/favicon.ico" alt="Portfólio" style="height: 28px; border-radius: 6px;">
+  <a href="https://meuportifolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
   
 </div>
