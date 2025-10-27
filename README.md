@@ -26,7 +26,7 @@ Bachelor of Computer Science from IFMA campus Caxias
  
 <div>  
 
-  <a href="https://meuportifolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://karelcosta.github.io/KRCportfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
   <a href = "mailto:costakarel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
