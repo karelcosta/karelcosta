@@ -17,7 +17,7 @@ Bachelor of Computer Science from IFMA campus Caxias
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=unity,nextjs,react,angular" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,nextjs,react,angular" />
   </a>
 </div>
 
